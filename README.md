@@ -1,4 +1,4 @@
-<h1 align="left">🧐João Torres</h1>
+<h1 align="left">João Torres</h1>
 
 ###
 
